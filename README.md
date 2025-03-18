@@ -1,1 +1,1 @@
-# Digitalizacion
+# Digitalización
