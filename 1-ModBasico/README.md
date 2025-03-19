@@ -23,4 +23,4 @@ Para compilar el mod:
 El archivo `.jar` se generará en la carpeta `build/libs/`.
 
 ### ***Créditos***
-Desarrollado por Tu Javier López.
+Desarrollado por Javier López.
