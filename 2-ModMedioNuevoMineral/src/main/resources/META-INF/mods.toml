@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="nuevomineralmod"
+version="1.0.0"
+displayName="Nuevo Mineral Mod"
+authors="Tu Nombre"
+description="Un mod que introduce un nuevo mineral y herramientas en Minecraft."

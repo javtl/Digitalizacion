@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="rubymineralmod"
+version="1.0.0"
+displayName="Ruby Mineral Mod"
+authors="Tu Nombre"
+description="Un mod que introduce Ruby como nuevo mineral y una criatura hostil."
